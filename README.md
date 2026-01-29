@@ -22,3 +22,11 @@ Coming soon!
 ---
 
 *Last updated: 01/29/26*
+
+## Recent Updates
+
+- **01/29/26**: Successfully completed the distributed workflow challenge!
+  - Cloned repository to local machine
+  - Made local modifications
+  - Pushed changes back to GitHub
+  - Experienced distributed computing firsthand!
